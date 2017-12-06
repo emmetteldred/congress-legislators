@@ -9271,16 +9271,15 @@
     fax: 620-232-2284
     phone: 620-232-2286
   - id: M000934-wichita
-    address: 3450 N. Rock Rd.
-    suite: Suite 209
-    building: Building 200
+    address: 100 North Broadway
+    suite: Suite 210
     city: Wichita
     state: KS
-    zip: '67226'
-    latitude: 37.74581939999999
-    longitude: -97.2435277
+    zip: '67202'
+    latitude: 37.686518
+    longitude: -97.334884
     fax: 316-631-1297
-    phone: 316-631-1410
+    phone: 316-269-9259
 - id:
     bioguide: M001111
     govtrack: 300076
